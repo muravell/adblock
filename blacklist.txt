@@ -1,0 +1,25 @@
+
+################ Xiaomi
+||ad.xiaomi.com
+||ad.intl.xiaomi.com
+################ Online casino
+/casino/
+||cosmolot.ua^
+||pin-up.ua^
+||slotoking.ua^
+################ Adult
+||mdh.to^
+||watchmdh.to^
+||bingato.com^
+/tube/
+################ Samsung Smart TV
+||lcprd1.samsungcloudsolution.net^$client='Router01'
+p.smarttv.sweet.tv
+################ Other
+||arm20.com^
+||binomo.com^
+*speedtest.*
+################ Allowed 
+@@youtube.com^
+@@youtubei.googleapis.com^
+||crashlytics.com^
