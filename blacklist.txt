@@ -8,7 +8,7 @@
 ||pin-up.ua^
 ||slotoking.ua^
 ||slotscity.ua^
-/favbet/
+||favbet^
 vbet.ua
 /pokermatch/
 ||jokerua.vip^
