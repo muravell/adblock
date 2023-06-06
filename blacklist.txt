@@ -1,4 +1,3 @@
-
 ################ Xiaomi
 ||ad.xiaomi.com
 ||ad.intl.xiaomi.com
@@ -9,7 +8,7 @@
 ||slotoking.ua^
 ||slotscity.ua^
 ||favbet^
-vbet.ua
+||vbet.ua^
 /pokermatch/
 ||jokerua.vip^
 ################ Adult
