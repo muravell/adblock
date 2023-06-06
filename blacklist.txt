@@ -11,7 +11,6 @@
 ||mdh.to^
 ||watchmdh.to^
 ||bingato.com^
-/tube/
 ################ Samsung Smart TV
 ||lcprd1.samsungcloudsolution.net^$client='Router01'
 p.smarttv.sweet.tv
@@ -19,6 +18,7 @@ p.smarttv.sweet.tv
 ||arm20.com^
 ||binomo.com^
 *speedtest.*
+/tube/
 ################ Allowed 
 @@youtube.com^
 @@youtubei.googleapis.com^
