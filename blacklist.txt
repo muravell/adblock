@@ -1,7 +1,7 @@
 ################ Xiaomi
 ||ad.xiaomi.com
 ||ad.intl.xiaomi.com
-################ Online casino
+################ Онлайн казино та лотереї
 /casino/
 ||cosmolot.ua^
 ||pin-up.ua^
@@ -11,6 +11,8 @@
 ||vbet.ua^
 /pokermatch/
 ||jokerua.vip^
+||msl.ua^
+||unl.ua^
 ################ Adult
 ||mdh.to^
 ||watchmdh.to^
@@ -27,3 +29,6 @@ p.smarttv.sweet.tv
 @@youtube.com^
 @@youtubei.googleapis.com^
 ||crashlytics.com^
+
+||googletagmanager.com^
+||jnn-pa.googleapis.com^
