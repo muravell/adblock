@@ -14,7 +14,7 @@
 ||msl.ua^
 ||unl.ua^
 ################ Adult
-||sisi.am^
+||vi.sisi.am^
 ||mdh.to^
 ||watchmdh.to^
 ||bingato.com^
