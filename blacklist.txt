@@ -18,9 +18,12 @@
 ||mdh.to^
 ||watchmdh.to^
 ||bingato.com^
+||lolokoko.tv^
+||iptvxxx.net^
 146.59.54.163
 190.11.225.124
 23.237.100.82
+78.159.119.122
 88.212.7.11
 ################ Samsung Smart TV
 ||lcprd1.samsungcloudsolution.net^$client='Router01'
