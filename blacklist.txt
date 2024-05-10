@@ -36,6 +36,5 @@ p.smarttv.sweet.tv
 @@youtube.com^
 @@youtubei.googleapis.com^
 ||crashlytics.com^
-
 ||googletagmanager.com^
 ||jnn-pa.googleapis.com^
